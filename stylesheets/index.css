@@ -1,0 +1,14 @@
+h1{
+	float: center;
+}
+
+p{
+	float: center;
+}
+
+a{
+	text-decoration: none;
+	color: yellow;
+	background-color: black;
+	float: left;
+}
